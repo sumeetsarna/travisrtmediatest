@@ -12,7 +12,7 @@ jdk:
 before_script:
 - export PLUGIN_DIR=$(pwd)
 - export PLUGIN_SLUG=$(basename $(pwd) | sed 's/^wp-//')
-
+- mvn install -DskipTests=true
 
 script:
 - mvn test
