@@ -15,5 +15,5 @@ before_script:
 
 
 script:
-- mvn test -Dgroups=buddypress
+- mvn test
 
