@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import testscripts.Constants;
 
 public class FeaturedDefaultImageTest {
-	@Test(groups = { "Imagesizes"})
+	@Test(groups = { "Imagesizes" })
 	public static void checkFeaturedDefault() throws Exception
 	{
 		
