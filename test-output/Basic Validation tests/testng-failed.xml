@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Basic Validation tests]">
+  <test name="Verify bbPress Settings(failed)">
+    <classes>
+      <class name="testscripts.bbPressSettingsTest">
+        <methods>
+          <include name="bbPressSettings"/>
+        </methods>
+      </class> <!-- testscripts.bbPressSettingsTest -->
+    </classes>
+  </test> <!-- Verify bbPress Settings(failed) -->
+  <test name="Verify buddyPress Settings(failed)">
+    <classes>
+      <class name="testscripts.buddyPressSettingsTest">
+        <methods>
+          <include name="buddyPressSettings"/>
+        </methods>
+      </class> <!-- testscripts.buddyPressSettingsTest -->
+    </classes>
+  </test> <!-- Verify buddyPress Settings(failed) -->
+</suite> <!-- Failed suite [Basic Validation tests] -->

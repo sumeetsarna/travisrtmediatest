@@ -1,0 +1,65 @@
+Configuring TestNG with: TestNG652Configurator
+Feb 23, 2015 7:46:56 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 23, 2015 7:46:56 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 22564
+Feb 23, 2015 7:46:56 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=22564, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 23, 2015 7:46:56 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-23T14:16:57.615Z] GhostDriver - Main - running on port 22564
+[INFO  - 2015-02-23T14:16:58.038Z] Session [a069e3f0-bb66-11e4-8098-df9135035ea7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-23T14:16:58.038Z] Session [a069e3f0-bb66-11e4-8098-df9135035ea7] - page.customHeaders:  - {}
+[INFO  - 2015-02-23T14:16:58.038Z] Session [a069e3f0-bb66-11e4-8098-df9135035ea7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-23T14:16:58.039Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a069e3f0-bb66-11e4-8098-df9135035ea7
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Allow Upload From Activity Stream' is already on
+Types  Tab Opened
+The Switch for enabling Music  is already ON
+Settings saved
+ Clicked Activity
+Attach Files Clicked
+Check Music  text entered
+Post Update button clicked
+Feb 23, 2015 7:49:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 23, 2015 7:49:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 1469
+Feb 23, 2015 7:49:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=1469, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 23, 2015 7:49:21 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-23T14:19:22.371Z] GhostDriver - Main - running on port 1469
+[INFO  - 2015-02-23T14:19:22.450Z] Session [f67db7d0-bb66-11e4-9e9b-4f456a2170e0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-23T14:19:22.450Z] Session [f67db7d0-bb66-11e4-9e9b-4f456a2170e0] - page.customHeaders:  - {}
+[INFO  - 2015-02-23T14:19:22.451Z] Session [f67db7d0-bb66-11e4-9e9b-4f456a2170e0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-23T14:19:22.451Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f67db7d0-bb66-11e4-9e9b-4f456a2170e0
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+display clicked
+rtMedia Settings Saved
+Feb 23, 2015 7:50:43 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 23, 2015 7:50:43 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 5223
+Feb 23, 2015 7:50:43 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=5223, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 23, 2015 7:50:43 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-23T14:20:43.741Z] GhostDriver - Main - running on port 5223
+[INFO  - 2015-02-23T14:20:44.079Z] Session [27252990-bb67-11e4-a383-f12072bdf6e1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-23T14:20:44.081Z] Session [27252990-bb67-11e4-a383-f12072bdf6e1] - page.customHeaders:  - {}
+[INFO  - 2015-02-23T14:20:44.081Z] Session [27252990-bb67-11e4-a383-f12072bdf6e1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-23T14:20:44.081Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 27252990-bb67-11e4-a383-f12072bdf6e1
+Correctly Logged In from another user
+clicked TestEditor
+Media clicked
+music clicked
+[ERROR - 2015-02-23T14:21:30.341Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1424701290280

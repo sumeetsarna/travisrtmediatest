@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="6" name="Failed suite [Failed suite [Basic Validation tests]]">
+  <test name=" Check allowUploadFromActivityStreamOtherRoles(failed)(failed)">
+    <classes>
+      <class name="testscripts.buddyPress.allowUploadFromActivityStreamOtherRolesTest">
+        <methods>
+          <include name="allowUploadFromActivityStreamOther"/>
+        </methods>
+      </class> <!-- testscripts.buddyPress.allowUploadFromActivityStreamOtherRolesTest -->
+    </classes>
+  </test> <!--  Check allowUploadFromActivityStreamOtherRoles(failed)(failed) -->
+  <test name=" Check Playlists enablePlaylists(failed)(failed)">
+    <classes>
+      <class name="testscripts.OtherSettings.enablePlaylistsTest">
+        <methods>
+          <include name="PlaylistAdmin"/>
+        </methods>
+      </class> <!-- testscripts.OtherSettings.enablePlaylistsTest -->
+    </classes>
+  </test> <!--  Check Playlists enablePlaylists(failed)(failed) -->
+  <test name=" Check Playlists Other Roles(failed)(failed)">
+    <classes>
+      <class name="testscripts.OtherSettings.enablePlaylistsOtherRolesTest">
+        <methods>
+          <include name="PlaylistNonAdminRoles"/>
+        </methods>
+      </class> <!-- testscripts.OtherSettings.enablePlaylistsOtherRolesTest -->
+    </classes>
+  </test> <!--  Check Playlists Other Roles(failed)(failed) -->
+  <test name="Check allowUserToUploadMediaViaURLOtherRoles(failed)(failed)">
+    <classes>
+      <class name="testscripts.OtherSettings.allowUserToUploadMediaViaURLOtherRolesTest">
+        <methods>
+          <include name="UploadMediaViaURLNonAdminRoles"/>
+        </methods>
+      </class> <!-- testscripts.OtherSettings.allowUserToUploadMediaViaURLOtherRolesTest -->
+    </classes>
+  </test> <!-- Check allowUserToUploadMediaViaURLOtherRoles(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Basic Validation tests]] -->

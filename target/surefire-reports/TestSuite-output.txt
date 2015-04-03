@@ -1,0 +1,568 @@
+Configuring TestNG with: TestNG652Configurator
+Feb 24, 2015 2:29:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:29:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 3645
+Feb 24, 2015 2:29:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=3645, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:29:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T08:59:58.477Z] GhostDriver - Main - running on port 3645
+[INFO  - 2015-02-24T08:59:58.681Z] Session [82686140-bc03-11e4-95d1-f9c3f8b062db] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T08:59:58.692Z] Session [82686140-bc03-11e4-95d1-f9c3f8b062db] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T08:59:58.692Z] Session [82686140-bc03-11e4-95d1-f9c3f8b062db] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T08:59:58.692Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 82686140-bc03-11e4-95d1-f9c3f8b062db
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+switch size:0
+'Enable Media in Profile' is already on
+Terms and Conditions  is already enabled
+Settings saved
+Media Clicked
+rtMedia-upload-button Clicked
+Terms and Conditions Enabled
+Select Files Clicked
+Start Media  Upload button clicked
+verifyMediaNamePresent Passed
+[INFO  - 2015-02-24T09:02:08.099Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:32:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:32:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 2475
+Feb 24, 2015 2:32:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=2475, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:32:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:02:08.897Z] GhostDriver - Main - running on port 2475
+[INFO  - 2015-02-24T09:02:09.179Z] Session [d030f270-bc03-11e4-bdf5-4779ca6066dc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:02:09.179Z] Session [d030f270-bc03-11e4-bdf5-4779ca6066dc] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:02:09.179Z] Session [d030f270-bc03-11e4-bdf5-4779ca6066dc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:02:09.179Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d030f270-bc03-11e4-bdf5-4779ca6066dc
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+switch size:0
+'Enable Media in Profile' is already on
+Terms and Conditions  is already enabled
+Settings saved
+Media Clicked
+rtMedia-upload-button Clicked
+Terms and Conditions Enabled
+Select Files Clicked
+Start Media  Upload button clicked
+verifyMediaNamePresent Passed
+[INFO  - 2015-02-24T09:04:17.816Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:34:18 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:34:18 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 26384
+Feb 24, 2015 2:34:18 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=26384, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:34:18 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:04:18.495Z] GhostDriver - Main - running on port 26384
+[INFO  - 2015-02-24T09:04:18.902Z] Session [1d82cd00-bc04-11e4-9ed8-8f223b273e77] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:04:18.904Z] Session [1d82cd00-bc04-11e4-9ed8-8f223b273e77] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:04:18.905Z] Session [1d82cd00-bc04-11e4-9ed8-8f223b273e77] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:04:18.907Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1d82cd00-bc04-11e4-9ed8-8f223b273e77
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Enable Podcasting' is already on
+Settings saved
+[INFO  - 2015-02-24T09:05:37.219Z] Session [1d82cd00-bc04-11e4-9ed8-8f223b273e77] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:05:37.219Z] Session [1d82cd00-bc04-11e4-9ed8-8f223b273e77] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:06:07.677Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:36:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:36:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 17059
+Feb 24, 2015 2:36:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=17059, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:36:08 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:06:08.373Z] GhostDriver - Main - running on port 17059
+[INFO  - 2015-02-24T09:06:08.761Z] Session [5efe1b40-bc04-11e4-855e-07d04da63ad9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:06:08.761Z] Session [5efe1b40-bc04-11e4-855e-07d04da63ad9] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:06:08.761Z] Session [5efe1b40-bc04-11e4-855e-07d04da63ad9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:06:08.761Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5efe1b40-bc04-11e4-855e-07d04da63ad9
+Correctly Logged In
+Clicked Activity
+Attach Files Clicked
+Media visible in activity < = No of Media items value set. 
+Post Update button clicked
+ Media Uploaded
+PhantomJS has crashed. Please read the crash reporting guide at https://github.com/ariya/phantomjs/wiki/Crash-Reporting and file a bug report at https://github.com/ariya/phantomjs/issues/new with the crash dump file attached: /tmp/attached: /tmp/8f4-36c7acd5-2fcd4-36.dmp
+Feb 24, 2015 2:37:28 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:37:28 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 14356
+Feb 24, 2015 2:37:28 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=14356, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:37:28 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:07:29.076Z] GhostDriver - Main - running on port 14356
+[INFO  - 2015-02-24T09:07:29.469Z] Session [8f192b80-bc04-11e4-8afe-e79833a4ed34] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:07:29.469Z] Session [8f192b80-bc04-11e4-8afe-e79833a4ed34] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:07:29.469Z] Session [8f192b80-bc04-11e4-8afe-e79833a4ed34] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:07:29.469Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8f192b80-bc04-11e4-8afe-e79833a4ed34
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Enable Media in Group' is already on
+Terms and Conditions  is already enabled
+Settings saved
+Reached Groups
+Clicked on a group named : test 
+rtMedia-upload-button Clicked
+Terms and Conditions Enabled
+Select Files Clicked
+Start Media  Upload button clicked
+verifyMediaNamePresent Passed
+[INFO  - 2015-02-24T09:09:56.641Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:39:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:39:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 20181
+Feb 24, 2015 2:39:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=20181, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:39:57 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:09:57.338Z] GhostDriver - Main - running on port 20181
+[INFO  - 2015-02-24T09:09:57.717Z] Session [e7758fd0-bc04-11e4-bba4-c5b894766ab3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:09:57.717Z] Session [e7758fd0-bc04-11e4-bba4-c5b894766ab3] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:09:57.717Z] Session [e7758fd0-bc04-11e4-bba4-c5b894766ab3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:09:57.717Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e7758fd0-bc04-11e4-bba4-c5b894766ab3
+Correctly Logged In With Admin Account to switch on the setting if off
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+switch size:0
+'Enable Media in Profile' is already on
+Terms and Conditions  is already enabled
+Settings saved
+Feb 24, 2015 2:41:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:41:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 11272
+Feb 24, 2015 2:41:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=11272, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:41:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:11:07.342Z] GhostDriver - Main - running on port 11272
+[INFO  - 2015-02-24T09:11:07.699Z] Session [112c45d0-bc05-11e4-966a-b72020c6e943] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:11:07.699Z] Session [112c45d0-bc05-11e4-966a-b72020c6e943] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:11:07.699Z] Session [112c45d0-bc05-11e4-966a-b72020c6e943] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:11:07.699Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 112c45d0-bc05-11e4-966a-b72020c6e943
+Correctly Logged In
+rtMedia-upload-button Clicked
+Terms and Conditions Enabled
+Select Files Clicked
+Start Media  Upload button clicked
+verifyMediaNamePresent Passed
+[INFO  - 2015-02-24T09:12:12.201Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:42:12 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:42:12 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 21899
+Feb 24, 2015 2:42:12 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=21899, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:42:12 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:12:13.108Z] GhostDriver - Main - running on port 21899
+[INFO  - 2015-02-24T09:12:13.310Z] Session [3847de90-bc05-11e4-b2d5-25bb4a2fc1d9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:12:13.311Z] Session [3847de90-bc05-11e4-b2d5-25bb4a2fc1d9] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:12:13.311Z] Session [3847de90-bc05-11e4-b2d5-25bb4a2fc1d9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:12:13.313Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3847de90-bc05-11e4-b2d5-25bb4a2fc1d9
+Correctly Logged In With Admin Account to switch on the setting if off
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Enable Podcasting' is already on
+[INFO  - 2015-02-24T09:13:09.281Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:43:09 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:43:09 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 19021
+Feb 24, 2015 2:43:09 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=19021, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:43:09 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:13:10.154Z] GhostDriver - Main - running on port 19021
+[INFO  - 2015-02-24T09:13:10.355Z] Session [5a47c9b0-bc05-11e4-a700-e1aaf7fccb99] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:13:10.360Z] Session [5a47c9b0-bc05-11e4-a700-e1aaf7fccb99] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:13:10.360Z] Session [5a47c9b0-bc05-11e4-a700-e1aaf7fccb99] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:13:10.364Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5a47c9b0-bc05-11e4-a700-e1aaf7fccb99
+Correctly Logged In
+[INFO  - 2015-02-24T09:13:49.831Z] Session [5a47c9b0-bc05-11e4-a700-e1aaf7fccb99] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:13:49.831Z] Session [5a47c9b0-bc05-11e4-a700-e1aaf7fccb99] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:14:15.267Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:44:15 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:44:15 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 19091
+Feb 24, 2015 2:44:15 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=19091, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:44:15 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:14:16.002Z] GhostDriver - Main - running on port 19091
+[INFO  - 2015-02-24T09:14:16.356Z] Session [819f32f0-bc05-11e4-9fae-255c2fd04587] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:14:16.358Z] Session [819f32f0-bc05-11e4-9fae-255c2fd04587] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:14:16.358Z] Session [819f32f0-bc05-11e4-9fae-255c2fd04587] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:14:16.360Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 819f32f0-bc05-11e4-9fae-255c2fd04587
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+[INFO  - 2015-02-24T09:14:57.410Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+BuddyPress Tab Opened
+'Organise Media into Albums' is already on
+'Allow User To Create New Albums' is already on
+rtMedia Settings Saved
+[INFO  - 2015-02-24T09:15:28.793Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:45:29 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:45:29 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 15603
+Feb 24, 2015 2:45:29 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=15603, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:45:29 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:15:29.471Z] GhostDriver - Main - running on port 15603
+[INFO  - 2015-02-24T09:15:29.870Z] Session [ad708b90-bc05-11e4-9fc9-49444621a2c8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:15:29.870Z] Session [ad708b90-bc05-11e4-9fc9-49444621a2c8] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:15:29.870Z] Session [ad708b90-bc05-11e4-9fc9-49444621a2c8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:15:29.870Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ad708b90-bc05-11e4-9fc9-49444621a2c8
+Correctly Logged In
+[ERROR - 2015-02-24T09:16:00.840Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1424769360795
+Feb 24, 2015 2:46:01 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:46:01 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 14173
+Feb 24, 2015 2:46:01 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=14173, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:46:01 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:16:01.854Z] GhostDriver - Main - running on port 14173
+[INFO  - 2015-02-24T09:16:02.245Z] Session [c0bbf7c0-bc05-11e4-8c74-e393f37fd1e8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:16:02.246Z] Session [c0bbf7c0-bc05-11e4-8c74-e393f37fd1e8] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:16:02.247Z] Session [c0bbf7c0-bc05-11e4-8c74-e393f37fd1e8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:16:02.249Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c0bbf7c0-bc05-11e4-8c74-e393f37fd1e8
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+Settings saved
+[INFO  - 2015-02-24T09:17:49.424Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:47:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:47:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 15110
+Feb 24, 2015 2:47:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=15110, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:47:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:17:50.099Z] GhostDriver - Main - running on port 15110
+[INFO  - 2015-02-24T09:17:50.498Z] Session [0142acd0-bc06-11e4-b991-fdcbdbfcf3bf] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:17:50.498Z] Session [0142acd0-bc06-11e4-b991-fdcbdbfcf3bf] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:17:50.498Z] Session [0142acd0-bc06-11e4-b991-fdcbdbfcf3bf] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:17:50.498Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0142acd0-bc06-11e4-b991-fdcbdbfcf3bf
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Allow Upload From Activity Stream' is already on
+rtMedia Settings Saved
+ Clicked Activity
+Attach Files Clicked
+Check Upload From Activity Stream : Photos  text entered
+Post Update button clicked
+Expected Text Present
+Reached Groups
+Clicked on a Group named test
+rtMedia-upload-button Clicked
+Terms and Conditions Enabled
+Select Files Clicked
+[INFO  - 2015-02-24T09:19:57.494Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Start Media  Upload button clicked
+verifyMediaNamePresent Passed
+Feb 24, 2015 2:50:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:50:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 6001
+Feb 24, 2015 2:50:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=6001, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:50:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:20:25.339Z] GhostDriver - Main - running on port 6001
+[INFO  - 2015-02-24T09:20:25.480Z] Session [5da2e620-bc06-11e4-8187-998ee4d877dd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:20:25.480Z] Session [5da2e620-bc06-11e4-8187-998ee4d877dd] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:20:25.480Z] Session [5da2e620-bc06-11e4-8187-998ee4d877dd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:20:25.480Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5da2e620-bc06-11e4-8187-998ee4d877dd
+[INFO  - 2015-02-24T09:20:29.469Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+saved
+ Clicked Activity
+Attach Files Clicked
+Media visible in activity < = No of Media items value set in setting. 
+Post Update button clicked
+ Media Uploaded
+[INFO  - 2015-02-24T09:22:26.999Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:52:27 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:52:27 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 17991
+Feb 24, 2015 2:52:27 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=17991, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:52:27 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:22:27.784Z] GhostDriver - Main - running on port 17991
+[INFO  - 2015-02-24T09:22:28.079Z] Session [a6b62ca0-bc06-11e4-919d-918d4d6210df] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:22:28.079Z] Session [a6b62ca0-bc06-11e4-919d-918d4d6210df] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:22:28.079Z] Session [a6b62ca0-bc06-11e4-919d-918d4d6210df] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:22:28.079Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a6b62ca0-bc06-11e4-919d-918d4d6210df
+[INFO  - 2015-02-24T09:22:50.098Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged In With Admin Account to switch on the setting if off
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Allow Upload From Activity Stream' is already on
+rtMedia Settings Saved
+Feb 24, 2015 2:53:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:53:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 28144
+Feb 24, 2015 2:53:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=28144, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:53:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:23:32.560Z] GhostDriver - Main - running on port 28144
+[INFO  - 2015-02-24T09:23:32.960Z] Session [cd623ab0-bc06-11e4-b8b3-397d1212b360] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:23:32.962Z] Session [cd623ab0-bc06-11e4-b8b3-397d1212b360] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:23:32.963Z] Session [cd623ab0-bc06-11e4-b8b3-397d1212b360] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:23:32.964Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cd623ab0-bc06-11e4-b8b3-397d1212b360
+Correctly Logged In
+ Clicked Activity
+Attach Files Clicked
+Check Upload From Activity Stream : Photos  text entered
+Post Update button clicked
+Expected Text Present
+Reached Groups
+Clicked on a Group named test
+Clicked on ACTIVITY inside test group
+Attach Files Clicked for Group Activity Upload
+check upload from activity for a Group named test  text entered
+Post Update button clicked for Group Activity Upload
+[INFO  - 2015-02-24T09:24:57.585Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Expected Text Not Present for Group Activity- failed
+Feb 24, 2015 2:55:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:55:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 18068
+Feb 24, 2015 2:55:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=18068, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:55:07 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:25:07.293Z] GhostDriver - Main - running on port 18068
+[INFO  - 2015-02-24T09:25:07.696Z] Session [05d9cbb0-bc07-11e4-9495-110925c60ed3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:25:07.696Z] Session [05d9cbb0-bc07-11e4-9495-110925c60ed3] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:25:07.696Z] Session [05d9cbb0-bc07-11e4-9495-110925c60ed3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:25:07.696Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 05d9cbb0-bc07-11e4-9495-110925c60ed3
+[INFO  - 2015-02-24T09:25:29.469Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Organise Media into Albums' is already on
+Settings Saved
+Options Opened
+Album successfully added
+verifyElementPresent Pass
+[INFO  - 2015-02-24T09:27:03.650Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:57:04 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:57:04 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 5710
+Feb 24, 2015 2:57:04 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=5710, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:57:04 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:27:04.356Z] GhostDriver - Main - running on port 5710
+[INFO  - 2015-02-24T09:27:04.727Z] Session [4b9b0100-bc07-11e4-a6aa-7baf23673871] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:27:04.728Z] Session [4b9b0100-bc07-11e4-a6aa-7baf23673871] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:27:04.728Z] Session [4b9b0100-bc07-11e4-a6aa-7baf23673871] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:27:04.730Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4b9b0100-bc07-11e4-a6aa-7baf23673871
+Correctly Logged In
+[INFO  - 2015-02-24T09:27:27.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+[INFO  - 2015-02-24T09:27:50.098Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+'Organise Media into Albums' is already on
+'Allow User To Create New Albums' is already on
+rtMedia Settings Saved
+Albums opened
+[INFO  - 2015-02-24T09:28:32.558Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Options Opened
+Album successfully added
+verifyElementPresent Pass
+[INFO  - 2015-02-24T09:28:48.942Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 2:58:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:58:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 14748
+Feb 24, 2015 2:58:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=14748, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:58:49 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:28:49.720Z] GhostDriver - Main - running on port 14748
+[INFO  - 2015-02-24T09:28:50.059Z] Session [8a63b260-bc07-11e4-a7ed-7d00f2bf2417] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:28:50.060Z] Session [8a63b260-bc07-11e4-a7ed-7d00f2bf2417] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:28:50.060Z] Session [8a63b260-bc07-11e4-a7ed-7d00f2bf2417] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:28:50.060Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8a63b260-bc07-11e4-a7ed-7d00f2bf2417
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+Settings saved
+Feb 24, 2015 2:59:42 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 2:59:42 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 26647
+Feb 24, 2015 2:59:42 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=26647, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 2:59:42 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:29:42.846Z] GhostDriver - Main - running on port 26647
+[INFO  - 2015-02-24T09:29:43.246Z] Session [aa178aa0-bc07-11e4-841c-614ca3410605] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:29:43.246Z] Session [aa178aa0-bc07-11e4-841c-614ca3410605] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:29:43.246Z] Session [aa178aa0-bc07-11e4-841c-614ca3410605] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:29:43.246Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aa178aa0-bc07-11e4-841c-614ca3410605
+[INFO  - 2015-02-24T09:29:57.681Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged in
+[ERROR - 2015-02-24T09:30:22.456Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1424770222356
+Cannot create even a single album. Already created.
+Add Albums Not there. - Success
+New Albums cannot be created :- Success
+[INFO  - 2015-02-24T09:30:29.469Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged In
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+Settings saved
+[INFO  - 2015-02-24T09:31:31.675Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 3:01:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 3:01:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 15086
+Feb 24, 2015 3:01:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=15086, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 3:01:32 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:31:32.637Z] GhostDriver - Main - running on port 15086
+[INFO  - 2015-02-24T09:31:32.772Z] Session [eb5fbaf0-bc07-11e4-aaae-ab650ffe2da8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:31:32.772Z] Session [eb5fbaf0-bc07-11e4-aaae-ab650ffe2da8] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:31:32.772Z] Session [eb5fbaf0-bc07-11e4-aaae-ab650ffe2da8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:31:32.772Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: eb5fbaf0-bc07-11e4-aaae-ab650ffe2da8
+Correctly Logged In With Admin Account to switch on the setting if off
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Organise Media into Albums' is already on
+Settings Saved
+Logout from Admin Account
+[INFO  - 2015-02-24T09:32:23.729Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 3:02:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 3:02:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 26229
+Feb 24, 2015 3:02:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=26229, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 3:02:24 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:32:24.524Z] GhostDriver - Main - running on port 26229
+[INFO  - 2015-02-24T09:32:24.801Z] Session [0a6292b0-bc08-11e4-ab53-bd126182bcfb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:32:24.802Z] Session [0a6292b0-bc08-11e4-ab53-bd126182bcfb] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:32:24.803Z] Session [0a6292b0-bc08-11e4-ab53-bd126182bcfb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:32:24.804Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0a6292b0-bc08-11e4-ab53-bd126182bcfb
+[INFO  - 2015-02-24T09:32:27.963Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged In
+[INFO  - 2015-02-24T09:32:50.098Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-02-24T09:33:19.517Z] ShutdownReqHand - _handle - About to shutdown
+Feb 24, 2015 3:03:20 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 3:03:20 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 22422
+Feb 24, 2015 3:03:20 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=22422, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 3:03:20 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:33:20.213Z] GhostDriver - Main - running on port 22422
+[INFO  - 2015-02-24T09:33:20.602Z] Session [2ba54850-bc08-11e4-94bb-b9dc50acaf80] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:33:20.604Z] Session [2ba54850-bc08-11e4-94bb-b9dc50acaf80] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:33:20.604Z] Session [2ba54850-bc08-11e4-94bb-b9dc50acaf80] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:33:20.606Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2ba54850-bc08-11e4-94bb-b9dc50acaf80
+[INFO  - 2015-02-24T09:33:32.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ Correctly Logged In With Admin Account to switch on the setting if off
+Dashboard Clicked
+rtMedia Clicked
+BuddyPress Tab Opened
+'Enable Media in Group' is already on
+Terms and Conditions  is already enabled
+Settings saved
+Feb 24, 2015 3:04:26 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /usr/local/bin/phantomjs
+Feb 24, 2015 3:04:26 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 6731
+Feb 24, 2015 3:04:26 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=6731, --webdriver-logfile=/home/rtcamp/GitClone/testing/target/phantomjsdriver.log]
+Feb 24, 2015 3:04:26 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-24T09:34:26.394Z] GhostDriver - Main - running on port 6731
+[INFO  - 2015-02-24T09:34:26.785Z] Session [531801c0-bc08-11e4-abdb-27f3aadf2ff7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-24T09:34:26.786Z] Session [531801c0-bc08-11e4-abdb-27f3aadf2ff7] - page.customHeaders:  - {}
+[INFO  - 2015-02-24T09:34:26.786Z] Session [531801c0-bc08-11e4-abdb-27f3aadf2ff7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-24T09:34:26.786Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 531801c0-bc08-11e4-abdb-27f3aadf2ff7
+[INFO  - 2015-02-24T09:34:42.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Correctly Logged In
+[INFO  - 2015-02-24T09:34:57.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2015-02-24T09:35:03.911Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1424770503788
+Already Joined. Move On.
+rtMedia-upload-button Clicked
+Terms and Conditions Enabled
+Select Files Clicked
+Start Media  Upload button clicked
+[INFO  - 2015-02-24T09:35:29.469Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+verifyMediaNamePresent Passed
+[INFO  - 2015-02-24T09:35:42.768Z] ShutdownReqHand - _handle - About to shutdown

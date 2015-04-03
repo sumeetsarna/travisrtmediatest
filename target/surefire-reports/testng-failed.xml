@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)">
+    <groups>
+      <run>
+        <include name="buddypress"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testscripts.buddyPress.numberOfMediaItemsInActivitySreamOtherRolesTest">
+        <methods>
+          <include name="numberOfMediaItemsInActivityOtherRoles"/>
+        </methods>
+      </class> <!-- testscripts.buddyPress.numberOfMediaItemsInActivitySreamOtherRolesTest -->
+      <class name="testscripts.buddyPress.allowUserToCreateNewAlbumsOtherRolesTest">
+        <methods>
+          <include name="allowUserCreateNewAlbumsOther"/>
+        </methods>
+      </class> <!-- testscripts.buddyPress.allowUserToCreateNewAlbumsOtherRolesTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
