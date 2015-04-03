@@ -15,5 +15,5 @@ before_script:
 - mvn install -DskipTests=true
 
 script:
-- mvn test
+-mvn test -Dtest = enableMediaInProfileTest
 
